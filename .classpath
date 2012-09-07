@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="medicalApp/velociraptors/com/MedAppControllerTest.java|medicalApp/velociraptors/com/MedicalHistoryTest.java|medicalApp/velociraptors/com/MedAppTest.java|medicalApp/velociraptors/com/LoginTest.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="Hospital-Administration-Velociraptors-Attack.jpg"/>
+	<classpathentry kind="var" path="GWT_HOME/gwt-user.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
